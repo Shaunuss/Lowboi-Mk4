@@ -56,7 +56,7 @@ gear_ratio: 15:1
 rotation_distance: 42.3
 ```
 
-*Please enjoy Lowboi Mk4 and I would be grateful for your feedback!*
+## *Please enjoy Lowboi Mk4 and I would be grateful for your feedback!*
 
 ![Lowboi Mk4 - 002 (Custom)](https://github.com/user-attachments/assets/4e38c4a6-3250-47e4-a72a-f0fbfbd40c30)
 
