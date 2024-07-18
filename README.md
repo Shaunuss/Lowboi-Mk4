@@ -49,6 +49,8 @@ Don't forget to cut the worm down to 12mm, and mount it spaced 0.1mm off the fac
 
 CONFIG SETTINGS:
 
+Try these settings to start off with - you may need to tweak rotation distance but this is a great starting point.
+
 gear_ratio: 15:1
 
 rotation_distance: 42.3
