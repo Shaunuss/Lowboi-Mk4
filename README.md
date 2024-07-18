@@ -21,7 +21,16 @@ On a Chube conduction hotend this has been shown to flow over 60mm^3/s.
 
 The BOM specifies a MOONs motor which has 0.23Nm of torque for considerably more extrusion pressure, and can be sourced from Formbot's website. Either motors are viable options.
 
+Build tips:
 I have printed this in Polycarbonate, and ASA. Both have worked well.
+
+Print orientation is standing in the normal upright position, on the foot flange, 0.2 layer height with 100% infill, and using automatic supports.
+
+After printing and removing supports, run a 2mm drill bit down through the filament tunnel all the way through the extruder to clear any burrs and prep the tunnel.
+
+Carefully wind a 4mm drill bit by hand through the drive shaft bores, taking care to keep the bit aligned with the holes to avoid removing excess material.
+
+Do the same with a 3mm drill bit through the pivot point bore on the latch. You shouldn't need to do it for the bearing bores unless the shaft is a stubborn fit.
 
 Please enjoy Lowboi Mk4 and I would be grateful for your feedback!
 
@@ -32,6 +41,3 @@ Exploded view with Bill of Materials:
 
 Drawing in PDF:
 [Lowboi Mk4 Assy.pdf](https://github.com/user-attachments/files/16283206/Lowboi.Mk4.Assy.pdf)
-
-
-
