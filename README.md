@@ -47,7 +47,9 @@ Assemble as per the exploded view, you may need to use polygrip pliers to fit th
 Don't forget to cut the worm down to 12mm, and mount it spaced 0.1mm off the face of the motor.
 
 CONFIG SETTINGS:
+
 gear_ratio: 15:1
+
 rotation_distance: 42.3
 
 Please enjoy Lowboi Mk4 and I would be grateful for your feedback!
