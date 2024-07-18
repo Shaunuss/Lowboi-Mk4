@@ -8,7 +8,7 @@ The drivetrain on this uses a single piece gear hob and bearing idler configurat
 
 K1 steel drive gear hob with DLC coating is sourced from AliExpress, originally intended as an upgrade part for the Creality K1 extruder. Gear and bearing quality may vary depending on vendor, so I recommend the use of high quality NSK bearings including replacing the stock bearing that comes with the gear.
 
-Worm is a high quality steel worm from KHK which can come in one or two start configuration. You are looking at the two start version of the Lowboi Mk4 with a 15:1 drive ratio. I have also made an extruder body for the one start version for 30:1 drive ratio.
+Worm is a high quality steel worm from KHK which can come in one or two start configuration, cut down to 12mm long. You are looking at the two start version of the Lowboi Mk4 with a 15:1 drive ratio. I have also made an extruder body for the one start version for 30:1 drive ratio.
 
 It is recommended to use grease containing molybdenum disulphide for lubricating the worm and gear, for it's increased anti wear properties.
 
@@ -31,6 +31,10 @@ After printing and removing supports, run a 2mm drill bit down through the filam
 Carefully wind a 4mm drill bit by hand through the drive shaft bores, taking care to keep the bit aligned with the holes to avoid removing excess material.
 
 Do the same with a 3mm drill bit through the pivot point bore on the latch. You shouldn't need to do it for the bearing bores unless the shaft is a stubborn fit.
+
+Assemble as per the exploded view, you may need to use polygrip pliers to fit the 4mm driveshaft through the body and bearings.
+
+Don't forget to cut the worm down to 12mm, and mount it spaced 0.1mm off the face of the motor.
 
 Please enjoy Lowboi Mk4 and I would be grateful for your feedback!
 
