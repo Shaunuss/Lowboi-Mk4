@@ -4,7 +4,7 @@
 
 ![Lowboi Mk4 - Multiple Mounts](https://github.com/user-attachments/assets/2db8f4b9-da53-4f10-a8bd-34d9cd765e30)
 
-### PARTS DESCRIPTION  
+## PARTS DESCRIPTION  
 The drivetrain on this uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders.
 
 ## GEAR  
