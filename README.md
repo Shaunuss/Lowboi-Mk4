@@ -27,6 +27,10 @@ On a Chube conduction hotend this has been shown to flow over 60mm^3/s.
 
 The BOM specifies a MOONs motor which has 0.23Nm of torque for considerably more extrusion pressure, and can be sourced from Formbot's website. Either motors are viable options.
 
+
+https://github.com/user-attachments/assets/3a12e0a7-a68f-4b8d-b766-d9dc1a9ff7ae
+
+
 BUILD TIPS:
 I have printed this in Polycarbonate, and ASA. Both have worked well.
 
