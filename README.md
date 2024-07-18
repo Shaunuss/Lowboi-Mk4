@@ -1,6 +1,6 @@
-# Lowboi Mk4 15:1
+# **Lowboi Mk4 15:1**
 
-Badass lightweight worm drive extruder.
+## Badass lightweight worm drive extruder.
 
 ![Lowboi Mk4 - 001 (Custom)](https://github.com/user-attachments/assets/5c930835-1201-4165-8cf8-6b91bff0eea9)
 
