@@ -9,15 +9,19 @@ The drivetrain on this uses a single piece gear hob and bearing idler configurat
 
 ## GEAR  
 **K1 steel drive gear hob with DLC coating** is sourced from **AliExpress**, originally intended as an upgrade part for the Creality K1 extruder. Gear and bearing quality may vary depending on vendor, so I recommend the use of high quality **NSK bearings** including replacing the stock bearing that comes with the gear.
+![photo_2024-07-20_02-45-49](https://github.com/user-attachments/assets/f5bb4f71-ad46-460d-bfc0-242190b081e5)
 
 ## WORM  
 Worm is a high quality steel worm from **KHK** which can come in one or two start configuration, ***cut down to 12mm long***. You are looking at the two start version of the Lowboi Mk4 with a **15:1 drive ratio**. I have also made an extruder body for the one start version for 30:1 drive ratio.
+![photo_2024-07-20_02-46-51](https://github.com/user-attachments/assets/f204c4e8-0b08-40db-b61d-cd5fefadcae7)
 
 ## GREASE  
 It is recommended to use grease containing **molybdenum disulphide** for lubricating the worm and gear, for it's increased anti wear properties.
+![photo_2024-07-20_02-51-08](https://github.com/user-attachments/assets/a1d3f296-e734-4f2c-b5b6-442e98179388)
 
 ## IDLER BEARING  
 Idler is a small bearing mounted in the latch on a **GCR15 bearing steel shaft**. It is technically a fixed unfixed idler without spring, with only a tiny amount of flex in the tensioning latch itself. This provides very strong grip on the filament by the hob.
+![photo_2024-07-20_02-53-26](https://github.com/user-attachments/assets/85094aa6-ff2d-40ed-b08f-34381864d50d)
 
 ## MOTOR  
 Lowboi Mk4 uses a **NEMA14 36mm** pancake motor with 5mm D shaft configuration.
