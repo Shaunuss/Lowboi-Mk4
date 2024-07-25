@@ -4,6 +4,9 @@
 
 ![Lowboi Mk4 - Multiple Mounts](https://github.com/user-attachments/assets/2db8f4b9-da53-4f10-a8bd-34d9cd765e30)
 
+## ADDED REMIX BODY!! - Angled motor mount for extra rigidity!
+![REMIX-003](https://github.com/user-attachments/assets/3969d2ed-b77c-465c-99cd-98754663ff63)
+
 ## PARTS DESCRIPTION  
 The drivetrain on this uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders.
 
