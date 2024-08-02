@@ -40,12 +40,11 @@ Increasing hotend temp to 300°C increase max flow to **70mm^3/s**.
 
 
 # 60.1mm^3/s run
+https://github.com/user-attachments/assets/7bbf58c4-ef9b-4407-a020-078142051459
 
 
-# Slow-motion printing vid showing earlier version in action.
+# Slow-motion printing vid showing worm drive in action.
 https://github.com/user-attachments/assets/c63346ed-cf1d-420c-8268-6457a2b93abd
-
-
 
 
 ## BUILD TIPS  
