@@ -75,5 +75,6 @@ rotation_distance: 42.3
 ![Lowboi Mk4 - 002](https://github.com/user-attachments/assets/69d5ad3e-afb7-499a-874e-8cfdec06d82f)
 
 ## Exploded view with Bill of Materials:
-![Exploded](https://github.com/user-attachments/assets/a4b88eeb-d2db-4831-8e23-b3c7e7772104)
+![Exploded](https://github.com/user-attachments/assets/595bb068-20b8-4177-9b76-fb7f80bf6584)
+
 
