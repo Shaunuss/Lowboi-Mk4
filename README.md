@@ -41,18 +41,11 @@ Increasing hotend temp to 300°C increase max flow to **70mm^3/s**.
 
 # 60.1mm^3/s run
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/user-attachments/assets/b5722df8-9d10-43ac-8715-1aaecc668e97" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 
 # Slow-motion printing vid showing earlier version in action.
+https://github.com/user-attachments/assets/c63346ed-cf1d-420c-8268-6457a2b93abd
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/user-attachments/assets/3a12e0a7-a68f-4b8d-b766-d9dc1a9ff7ae" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 
 ## BUILD TIPS  
