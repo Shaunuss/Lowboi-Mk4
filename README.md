@@ -31,14 +31,17 @@ The **LDO-36STH20-1004AH-RevA-1** motor has 0.1Nm of torque, and can be sourced 
 The BOM specifies a MOONs **CSE14HRA2L4100** motor which has 0.19Nm of torque for considerably more extrusion force, and can be sourced from Formbot's website.
 
 ## FLOW TESTS
+I carry out open air extrusions tests to see flow capability. I tend to use grey or black ASA at 260°C because this filament is a mainstay of my prints. The following tests were all conducted using the same spool of filament, at 260°, unless stated otherwise. 
 With the LDO motor, Lowboi Mk4 has been tested to flow up to **31mm^3/s** through a Trianglelab Dragon Ace hotend with the stock 0.4mm nozzle.
 With the MOONs motor, the Dragon Ace hotend was able to flow **~35mm^3/s** max on the stock 0.4mm nozzle.
 With the addition of the CHT Melt Zone Extender, max flow increased to **45.7mm^3/s**.
 Swapping to a 0.5 Bozzle Nozzle increased max flow to **60.1mm^3/s**.
 Increasing hotend temp to 300°C increase max flow to **70mm^3/s**.
 
+60.1mm^3/s run
 https://github.com/user-attachments/assets/b5722df8-9d10-43ac-8715-1aaecc668e97
 
+Slow-motion printing vid showing earlier version in action.
 https://github.com/user-attachments/assets/3a12e0a7-a68f-4b8d-b766-d9dc1a9ff7ae
 
 
