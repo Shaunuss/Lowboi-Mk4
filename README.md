@@ -2,13 +2,10 @@
 
 ## Badass lightweight worm drive extruder.
 
-![Lowboi Mk4 - Multiple Mounts](https://github.com/user-attachments/assets/2db8f4b9-da53-4f10-a8bd-34d9cd765e30)
-
-## ADDED REMIX BODY!! - Angled motor mount for extra rigidity!
-![REMIX-003](https://github.com/user-attachments/assets/3969d2ed-b77c-465c-99cd-98754663ff63)
+![Lowboi Mk4 - 003](https://github.com/user-attachments/assets/0906c99f-fc61-479a-980b-68e5d8cabade)
 
 ## PARTS DESCRIPTION  
-The drivetrain on this uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders.
+The drivetrain on Lowboi Mk4 uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders.
 
 ## GEAR  
 **K1 steel drive gear hob with DLC coating** is sourced from **AliExpress**, originally intended as an upgrade part for the Creality K1 extruder. Gear and bearing quality may vary depending on vendor, so I recommend the use of high quality **NSK bearings** including replacing the stock bearing that comes with the gear.
@@ -29,11 +26,18 @@ Idler is a small bearing mounted in the latch on a **GCR15 bearing steel shaft**
 ## MOTOR  
 Lowboi Mk4 uses a **NEMA14 36mm** pancake motor with 5mm D shaft configuration.
 
-With the **LDO-36STH20-1004AH-RevA-1** motor that has 0.1Nm of torque, this extruder has been tested to flow up to 31mm^3/s through a Trianglelab Dragon Ace hotend with the stock 0.4mm nozzle.
-On a Chube conduction hotend this has been shown to flow over 60mm^3/s.
+The **LDO-36STH20-1004AH-RevA-1** motor has 0.1Nm of torque, and can be sourced from Mellow on Aliexpress as a replacement motor for their Cannon extruder. This motor will work perfectly fine for most printing applications.
 
-The BOM specifies a MOONs motor which has 0.23Nm of torque for considerably more extrusion pressure, and can be sourced from Formbot's website. Either motors are viable options.
+The BOM specifies a MOONs **CSE14HRA2L4100** motor which has 0.19Nm of torque for considerably more extrusion force, and can be sourced from Formbot's website.
 
+## FLOW TESTS
+With the LDO motor, Lowboi Mk4 has been tested to flow up to **31mm^3/s** through a Trianglelab Dragon Ace hotend with the stock 0.4mm nozzle.
+With the MOONs motor, the Dragon Ace hotend was able to flow **~35mm^3/s** max on the stock 0.4mm nozzle.
+With the addition of the CHT Melt Zone Extender, max flow increased to **45.7mm^3/s**.
+Swapping to a 0.5 Bozzle Nozzle increased max flow to **60.1mm^3/s**.
+Increasing hotend temp to 300°C increase max flow to **70mm^3/s**.
+
+https://github.com/user-attachments/assets/b5722df8-9d10-43ac-8715-1aaecc668e97
 
 https://github.com/user-attachments/assets/3a12e0a7-a68f-4b8d-b766-d9dc1a9ff7ae
 
@@ -51,7 +55,7 @@ Do the same with a 3mm drill bit through the pivot point bore on the latch. You 
 
 Assemble as per the exploded view, you may need to use polygrip pliers to fit the 4mm driveshaft through the body and bearings.
 
-*Don't forget to cut the worm down to 12mm*, and mount it spaced 0.1mm off the face of the motor.
+*Don't forget to cut the worm down to 12mm*.
 
 
 ## CONFIG SETTINGS  
@@ -65,7 +69,7 @@ rotation_distance: 42.3
 
 ## *Please enjoy Lowboi Mk4 and I would be grateful for your feedback!*
 
-![Lowboi Mk4 - 002 (Custom)](https://github.com/user-attachments/assets/4e38c4a6-3250-47e4-a72a-f0fbfbd40c30)
+![Lowboi Mk4 - 002](https://github.com/user-attachments/assets/69d5ad3e-afb7-499a-874e-8cfdec06d82f)
 
 ## Exploded view with Bill of Materials:
 ![Exploded](https://github.com/user-attachments/assets/1303d960-7f28-416f-84c9-5548b3019133)
