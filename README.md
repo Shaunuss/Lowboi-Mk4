@@ -79,6 +79,9 @@ rotation_distance: 42.3
 ## Exploded view with Bill of Materials:
 ![Exploded](https://github.com/user-attachments/assets/595bb068-20b8-4177-9b76-fb7f80bf6584)
 
+
+## BOM table, for easy copy paste:
+
 | ITEM NO. | PART NUMBER                | DESCRIPTION                                       | QTY. |
 |----------|----------------------------|---------------------------------------------------|------|
 | 1        | BODY                       | LOWBOI MK4 BODY - 2 START                         | 1    |
