@@ -2,7 +2,7 @@
 
 ## Badass lightweight worm drive extruder.
 
-![Lowboi Mk4 - 003](https://github.com/user-attachments/assets/0906c99f-fc61-479a-980b-68e5d8cabade)
+![Lowboi Mk4 - 003](https://github.com/user-attachments/assets/e3bec7a6-0b32-4808-8d0e-f317206bae56)
 
 ## PARTS DESCRIPTION  
 The drivetrain on Lowboi Mk4 uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders. *Bill of materials is at the bottom*
