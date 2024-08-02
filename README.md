@@ -5,7 +5,7 @@
 ![Lowboi Mk4 - 003](https://github.com/user-attachments/assets/0906c99f-fc61-479a-980b-68e5d8cabade)
 
 ## PARTS DESCRIPTION  
-The drivetrain on Lowboi Mk4 uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders.
+The drivetrain on Lowboi Mk4 uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders. *Bill of materials is at the bottom*
 
 ## GEAR  
 **K1 steel drive gear hob with DLC coating** is sourced from **AliExpress**, originally intended as an upgrade part for the Creality K1 extruder. I used gears from Mellow and am very happy with the quality. Gear and bearing quality may vary depending on vendor, so I recommend the use of high quality **NSK bearings** including replacing the stock bearing that comes with the gear.
@@ -76,5 +76,26 @@ rotation_distance: 42.3
 
 ## Exploded view with Bill of Materials:
 ![Exploded](https://github.com/user-attachments/assets/595bb068-20b8-4177-9b76-fb7f80bf6584)
+
+| ITEM NO. | PART NUMBER                | DESCRIPTION                                       | QTY. |
+|----------|----------------------------|---------------------------------------------------|------|
+| 1        | BODY                       | LOWBOI MK4 BODY - 2 START                         | 1    |
+| 2        | MR84-ZZ                    | 4 X 8 X 3 DEEP GROOVE BALL BEARING                | 1    |
+| 3        | Bearing Spacer             | 8 X 6 X 2.5 BEARING SPACER (PRINTED)              | 1    |
+| 4        | K1 Hob Gear                | K1 steel hob GEAR - DLC COATED                    | 1    |
+| 5        | 684-ZZ                     | 4 X 9 X 4 DEEP GROOVE BALL BEARING                | 1    |
+| 6        | 4MM GCR15                  | DRIVE SHAFT - Ø4MM X 20MM GCR15 BEARING STEEL PIN | 1    |
+| 7        | CSE14HRA2L4100             | MOONS Ø36 X 20.2 NEMA14 PANCAKE STEPPER           | 1    |
+| 8        | KHK SW0.5-R2               | KHK 0.5 MODULE TWO START WORM                     | 1    |
+| 9        | M3                         | M3 FLAT WASHER                                    | 3    |
+| 10       | M03 X 12                   | M3 X 12MM CAPSCREW                                | 2    |
+| 11       | M3 4 x 3 brass melt Insert | BRASS MELT INSERT M3 - Ø4MM x 3MM                 | 1    |
+| 12       | Latch                      | LOWBOI MK4 IDLER TENSION LATCH                    | 1    |
+| 13       | Pivot Shaft                | PIVOT SHAFT Ø3MM x 20MM GCR15 BEARING STEEL PIN   | 1    |
+| 14       | MR83-ZZ                    | 3 X 8 X 3 DEEP GROOVE BALL BEARING                | 1    |
+| 15       | Idler Shaft                | IDLER SHAFT - Ø3MM x 10MM GCR15 BEARING STEEL PIN | 1    |
+| 16       | M03 X 010                  | M3 X 10MM BUTTON HEAD SCREW                       | 1    |
+| 17       | Collar                     | REVERSE BOWDEN RETAINING COLLAR                   | 1    |
+| 18       | COLLAR Clip                | CLIP FOR RETAINING COLLAR                         | 1    |
 
 
