@@ -87,25 +87,26 @@ rotation_distance: 42.3
 
 ## BOM table, for easy copy paste:
 
-| ITEM NO. | PART NUMBER                | DESCRIPTION                                       | QTY. |
-|----------|----------------------------|---------------------------------------------------|------|
-| 1        | Body                       | LOWBOI MK4 BODY - 2 START                         | 1    |
-| 2        | MR84-ZZ                    | 4 X 8 X 3 DEEP GROOVE BALL BEARING                | 1    |
-| 3        | Bearing Spacer             | 8 X 6 X 2.5 BEARING SPACER (PRINTED)              | 1    |
-| 4        | K1 Hob Gear                | K1 steel hob GEAR - DLC COATED                    | 1    |
-| 5        | 684-ZZ                     | 4 X 9 X 4 DEEP GROOVE BALL BEARING                | 1    |
-| 6        | 4MM GCR15                  | DRIVE SHAFT - Ø4MM X 20MM GCR15 BEARING STEEL PIN | 1    |
-| 7        | CSE14HRA2L4100             | MOONS Ø36 X 20.2 NEMA14 PANCAKE STEPPER           | 1    |
-| 8        | KHK SW0.5-R2               | KHK 0.5 MODULE TWO START WORM                     | 1    |
-| 9        | M3                         | M3 FLAT WASHER                                    | 3    |
-| 10       | M03 X 12                   | M3 X 12MM CAPSCREW                                | 2    |
-| 11       | M3 4 x 3 Brass Melt Insert | BRASS MELT INSERT M3 - Ø4MM x 3MM                 | 1    |
-| 12       | Latch                      | LOWBOI MK4 IDLER TENSION LATCH                    | 1    |
-| 13       | Pivot Shaft                | PIVOT SHAFT Ø3MM x 20MM GCR15 BEARING STEEL PIN   | 1    |
-| 14       | MR83-ZZ                    | 3 X 8 X 3 DEEP GROOVE BALL BEARING                | 1    |
-| 15       | Idler Shaft                | IDLER SHAFT - Ø3MM x 10MM GCR15 BEARING STEEL PIN | 1    |
-| 16       | M03 X 10                   | M3 X 10MM BUTTON HEAD SCREW                       | 1    |
-| 17       | Collar                     | REVERSE BOWDEN RETAINING COLLAR                   | 1    |
-| 18       | COLLAR Clip                | CLIP FOR RETAINING COLLAR                         | 1    |
+| ITEM NO. | PART NUMBER                | DESCRIPTION                                       | QTY. | LINK |
+|----------|----------------------------|---------------------------------------------------|------|------|
+| 1        | Body                       | LOWBOI MK4 BODY - 2 START                         | 1    |      |
+| 2        | MR84-ZZ                    | 4 X 8 X 3 DEEP GROOVE BALL BEARING                | 1    | [Link](https://www.aliexpress.com/item/1005006362413271.html) |
+| 3        | Bearing Spacer             | 8 X 6 X 2.5 BEARING SPACER (PRINTED)              | 1    |      |
+| 4        | K1 Hob Gear                | K1 steel hob GEAR - DLC COATED                    | 1    | [Link](https://www.aliexpress.com/item/1005007288378552.html) |
+| 5        | 684-ZZ                     | 4 X 9 X 4 DEEP GROOVE BALL BEARING                | 1    | [Link](https://www.aliexpress.com/item/1005006360598641.html) |
+| 6        | 4MM GCR15                  | DRIVE SHAFT - Ø4MM X 20MM GCR15 BEARING STEEL PIN | 1    | [Link](https://www.aliexpress.com/item/1005005710466043.html) |
+| 7        | CSE14HRA2L4100             | MOONS Ø36 X 20.2 NEMA14 PANCAKE STEPPER           | 1    | [Link](https://www.vivedino.com/products/moons-motor-for-marathon?VariantsId=11086) |
+| 8        | KHK SW0.5-R2               | KHK 0.5 MODULE TWO START WORM                     | 1    | [Link](https://www.khkgears.us/catalog/product/SW0.5-R2/) |
+| 9        | M3                         | M3 FLAT WASHER                                    | 3    | [Link](https://www.aliexpress.com/item/1005002301164770.html) |
+| 10       | M03 X 12                   | M3 X 12MM CAPSCREW                                | 2    | [Link](https://www.aliexpress.com/item/1005006342222924.html) |
+| 11       | M3 4 x 3 Brass Melt Insert | BRASS MELT INSERT M3 - Ø4MM x 3MM                 | 1    |      |
+| 12       | Latch                      | LOWBOI MK4 IDLER TENSION LATCH                    | 1    |      |
+| 13       | Pivot Shaft                | PIVOT SHAFT Ø3MM x 20MM GCR15 BEARING STEEL PIN   | 1    | [Link](https://www.aliexpress.com/item/1005005710466043.html) |
+| 14       | MR83-ZZ                    | 3 X 8 X 3 DEEP GROOVE BALL BEARING                | 1    | [Link](https://www.aliexpress.com/item/1005006378619101.html) |
+| 15       | Idler Shaft                | IDLER SHAFT - Ø3MM x 10MM GCR15 BEARING STEEL PIN | 1    | [Link](https://www.aliexpress.com/item/1005005710466043.html) |
+| 16       | M03 X 10                   | M3 X 10MM BUTTON HEAD SCREW                       | 1    |      |
+| 17       | Collar                     | REVERSE BOWDEN RETAINING COLLAR                   | 1    |      |
+| 18       | COLLAR Clip                | CLIP FOR RETAINING COLLAR                         | 1    |      |
+
 
 
