@@ -7,6 +7,8 @@
 ## PARTS DESCRIPTION  
 The drivetrain on Lowboi Mk4 uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders. *Bill of materials is at the bottom.*
 
+*Optional printed toolboard motor mount bracket is available in the files list.* (requires M3 x 30 capscrews for mounting through motor)
+
 ## GEAR  
 **K1 steel drive gear hob with DLC coating** is sourced from **AliExpress**, originally intended as an upgrade part for the Creality K1 extruder. I used gears from Mellow and am very happy with the quality. Gear and bearing quality may vary depending on vendor, so I recommend the use of high quality **NSK bearings** including replacing the stock bearing that comes with the gear.
 ![photo_2024-07-20_02-45-49](https://github.com/user-attachments/assets/f5bb4f71-ad46-460d-bfc0-242190b081e5)
