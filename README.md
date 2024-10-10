@@ -30,9 +30,12 @@ Idler is a small bearing mounted in the latch on a **GCR15 bearing steel shaft**
 ## MOTOR  
 Lowboi Mk4 uses a **NEMA14 36mm** pancake motor with 5mm D shaft configuration.
 
-The **LDO-36STH20-1004AH-RevA-1** motor has 0.1Nm of torque, and can be sourced from Mellow on Aliexpress as a replacement motor for their Cannon extruder. This motor will work perfectly fine for most printing applications, but it is a bottleneck, and will skip before you run out of grip on the hob.
+The **LDO-36STH20-1004AH-RevA-1** motor has 0.1Nm of torque, and can be sourced from Mellow on Aliexpress as a replacement motor for their Cannon extruder. This motor will work, but it becomes a bottleneck and will skip before you run out of grip on the hob.
 
 For a significant torque increase, the BOM specifies a MOONs **CSE14HRA2L4100** motor which has 0.19Nm of torque for considerably more extrusion force, and can be sourced from Formbot's website. You will never run out of torque with this motor.
+![Motors](https://github.com/user-attachments/assets/e92490e9-565d-4327-9740-5cbb9355b06c)
+
+
 
 ## FLOW TESTS
 I carry out open air extrusions tests to see flow capability. I tend to use grey or black ASA at 260°C because this filament is a mainstay of my prints. The following tests were all conducted using the same spool of filament, at 260°, unless stated otherwise. 
