@@ -7,6 +7,8 @@
 ## PARTS DESCRIPTION  
 The drivetrain on Lowboi Mk4 uses a single piece gear hob and bearing idler configuration, resulting in a very smooth and high extrusion quality, practically eliminating the common woodgrain artifacting seen in numerous other extruders. This is down to the gear hob being one piece and fully concentric, and no gear meshing issues sometimes seen in dual drive gear extruders. *Bill of materials is at the bottom.*
 
+*NOTE:* The body/housing of Lowboi Mk4 has been updated with internal reinforcing to strengthen the housing against cracking along layer lines. Following print, you need to superglue two 20mm long pieces of filament up inside two holes from underneath. See video in build tips for more details.
+
 *Optional printed toolboard motor mount bracket is available in the files list.* (requires M3 x 30 capscrews for mounting through motor)
 
 ## GEAR  
@@ -68,6 +70,8 @@ Do the same with a 3mm drill bit through the pivot point bore on the latch. You 
 Assemble as per the exploded view, you may need to use polygrip pliers to fit the 4mm driveshaft through the body and bearings.
 
 *Don't forget to cut the worm down to 12mm*.
+
+https://github.com/user-attachments/assets/5c13dc8a-371c-41f1-bb70-907f3756fbca
 
 
 ## CONFIG SETTINGS  
